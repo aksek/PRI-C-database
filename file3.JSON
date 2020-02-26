@@ -1,0 +1,30 @@
+{
+ "China":[
+  {
+   "name":"cinnabar",
+   "formula":"KBi8",
+   "ID":4
+  }
+ ],
+ "Greenland":[
+  {
+   "name":"chaoite",
+   "formula":"B7H7Ar7",
+   "ID":3
+  }
+ ],
+ "Japan":[
+  {
+   "name":"Calcite",
+   "formula":"K5Ca6Cu6",
+   "ID":2
+  }
+ ],
+ "Spain":[
+  {
+   "name":"cabalzarite",
+   "formula":"N8H8I8",
+   "ID":1
+  }
+ ]
+}
